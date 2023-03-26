@@ -19,6 +19,9 @@ For Apple Developer Academy @ POSTECH 2th (UI/UX Study)
  
   ```
   
+  <br>
+  
+  
   # Screen Shot
   
 ### 1. Init Screen
