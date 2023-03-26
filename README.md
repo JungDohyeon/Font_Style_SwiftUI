@@ -27,6 +27,8 @@ For Apple Developer Academy @ POSTECH 2th (UI/UX Study)
 ### 1. Init Screen
 <img src="https://user-images.githubusercontent.com/40754281/227763447-fbf514ad-8c9a-4c5c-95dd-deca2cee38b4.png"  width="30%">
 
+<br>
+
 ### 2. Size (letter Space, Font Size), Adjust Color(R,G,B), Rotate (0 ~ 360 degree)
 <table>
   <tr>
@@ -35,6 +37,8 @@ For Apple Developer Academy @ POSTECH 2th (UI/UX Study)
     <td><img alt="" src="https://user-images.githubusercontent.com/40754281/227763973-b8b64db3-e1c4-4dfc-903a-6e7d184b388f.png" /></td>
   <tr>
 </table>
+
+<br>
 
 ### 3. Rotate Screen (Landscape Mode)
 <img alt="" src="https://user-images.githubusercontent.com/40754281/227764128-938f612d-c931-4b11-b373-dd45010c1068.png" width="80%" />
